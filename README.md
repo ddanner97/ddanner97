@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on... my [workout app](https://github.com/ddanner97/WorkoutApp)
-- 🌱 I’m currently learning... React, Redux, and more on web development w/ [Harvards: Web Programming w/ Python & JavaScript](https://cs50.harvard.edu/web/2020/)
+- 🌱 I’m currently learning... React, Redux, & more on web development w/ [Harvards: Web Programming w/ Python & JavaScript](https://cs50.harvard.edu/web/2020/)
 - 🧠 In the future I want to learn more about... Database architecure and MySQL and PostgreSQL
 - 👯 I’m looking to collaborate on ... any project using React or Django.
 - 💬 Ask me about ... Music, Movies, or Fitness! 
