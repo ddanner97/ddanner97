@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on... This [Movie Rankings App](https://github.com/ddanner97/Movie-Rankings)
-- 🌱 I’m currently learning... React, Redux, & NodeJs
+- 🌱 I’m currently learning... NodeJs
 - 🧠 In the future I want to learn more about... Database architecure and MySQL and PostgreSQL
 - 👯 I’m looking to collaborate on ... any project using React.
 - 💬 Ask me about ... Music, Movies, or Fitness! 
