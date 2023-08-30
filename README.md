@@ -3,9 +3,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on... This [Movie Rankings App](https://github.com/ddanner97/Movie-Rankings)
-- 🌱 I’m currently learning... NodeJs through project Odin
+- 🌱 I’m currently learning... Docker and Flask
 - 🧠 In the future I want to learn more about... Database architecure and both relational/non-relational databases
-- 👯 I’m looking to collaborate on ... any project using React
+- 👯 I’m looking to collaborate on ... any project using React || Flask
 - 💬 Ask me about ... Music, Movies, or Fitness! 
 - 📫 Connect with me on LinkedIn: [My Profile](https://www.linkedin.com/in/damian-d-53415b1ba/)
 - 😄 Pronouns: He/Him
