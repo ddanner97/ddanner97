@@ -8,5 +8,5 @@ I'm a fullstack software engineer who is finishing up a little sabbatical after 
 Get in touch
 ---
 - 📫 Connect with me on LinkedIn: [My Profile](https://www.linkedin.com/in/damian-d-53415b1ba/)
-- Check out my blog! [damiandanner.com](https://damiandanner.com)
+- 💻 Check out my blog: [damiandanner.com](https://damiandanner.com)
 
