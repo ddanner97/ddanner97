@@ -1,5 +1,5 @@
 ### Hi there👋
-My name is Damian Danner and I am a software engineer based out of Brookyln, New York.
+My name is Damian Danner and I am a software engineer based out of Brooklyn, New York.
 
 About Me
 ---
