@@ -7,7 +7,8 @@ I'm a fullstack software engineer who is finishing up a little sabbatical after 
 
 Notable Projects
 ---
-* [howrthey?](https://howrthey.com) Search and Review your favorite shows here 
+* [howrthey?](https://howrthey.com) - Search and Review your favorite shows here
+* [workout-logger](https://workoutapplogger.com) - On the go, easy to use workout tracker
 
 Get in touch
 ---
