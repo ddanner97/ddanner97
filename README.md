@@ -9,7 +9,7 @@ Notable Projects
 ---
 * [howrthey?](https://howrthey.com) - Search and Review your favorite shows here
 * [workout-logger](https://www.workoutloggerapp.com/login) - On the go, easy to use workout tracker
-* [adaptive-forms library](https://github.com/ddanner97/adaptive-forms)
+* [adaptive-forms](https://github.com/ddanner97/adaptive-forms) - A responsive form workflow engine for React Hook Form.
 
 Get in touch
 ---
