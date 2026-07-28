@@ -9,6 +9,7 @@ Notable Projects
 ---
 * [howrthey?](https://howrthey.com) - Search and Review your favorite shows here
 * [workout-logger](https://www.workoutloggerapp.com/login) - On the go, easy to use workout tracker
+* [adaptive-forms library](https://github.com/ddanner97/adaptive-forms)
 
 Get in touch
 ---
