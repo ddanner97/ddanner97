@@ -3,7 +3,7 @@ My name is Damian Danner and I am a software engineer based out of Brooklyn, New
 
 About Me
 ---
-I'm a fullstack software engineer who is finishing up a little sabbatical after previously working on product and analytics platform for a company called Netsmart the last 3.5 years. Most of my professional experience is in health tech but I am excited to work on anything fun and exciting. When I'm not coding I'm enjoying time spent with family and friends, practicing an instrument / making music, or getting outdoors.
+I'm a fullstack engineer who is finishing up a little sabbatical after previously working on product and analytics platform for a company called Netsmart the last 3.5 years. Most of my professional experience is in health tech but I am excited to work on anything fun and exciting. When I'm not coding I'm enjoying time spent with family and friends, practicing an instrument / making music, or getting outdoors.
 
 Notable Projects
 ---
